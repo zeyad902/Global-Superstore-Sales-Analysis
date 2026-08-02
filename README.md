@@ -491,7 +491,7 @@ Increase investment in high-performing Technology products while reviewing prici
 
 The full report contains **21 detailed business insights**, each linked to the supporting dashboard visualization through the **"See Why?"** navigation feature inside the Power BI report.
 
-➡️ **[Read All Business Insights](docs\Business_Insights.md)**
+➡️ **[Read All Business Insights](docs/Business_Insights.md)**
 
 ---
 
