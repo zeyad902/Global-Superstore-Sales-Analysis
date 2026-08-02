@@ -532,7 +532,7 @@ git clone https://github.com/zeyad902/global-superstore-analytics.git
 
 🎓 Business Information Systems Student
 
-📊 Aspiring Data Analyst
+📊 junior Data Analyst
 
 - 💼 LinkedIn: https://www.linkedin.com/in/zeyad-mohamed-goda
 - 💻 GitHub: https://github.com/zeyad902
