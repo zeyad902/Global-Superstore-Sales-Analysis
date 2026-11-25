@@ -515,7 +515,7 @@ The full report contains **21 detailed business insights**, each linked to the s
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/zeyad902/global-superstore-analytics.git
+git clone https://github.com/zeyad902/Global-Superstore-Sales-Analysis.git
 ```
 
 2. Open the SQL scripts to create the database and data warehouse.
